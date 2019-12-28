@@ -1,0 +1,2 @@
+This is a first file in study repository.
+It contain some text as a default.
